@@ -1,12 +1,12 @@
 # 🙋‍ 2022.2 - Módulo IoT - Turma 4 - Estapar
 ## 🔍 O problema:
-
+Ausência de sistema de controle e monitoramento dos veículos recebidos no "posto de valet” e movimentados/redirecionados pelos manobristas para outro bolsão de vagas / estacionamentos. 
 
 ## 🎯 O objetivo:
-
+Criação de solução Hardware de monitoramento e controle de ativos indoor, juntamente com a criação de um software de gestão e indicadores de produtividade dos colaboradores.
 
 ## 🧩 O público-alvo:
-
+Gestores de estacionamento e manobristas.
 
 ## 💻 Solução IoT:
 
